@@ -1,0 +1,4 @@
+baseURL = "https://sheetmusicnow33.vercel.app"
+languageCode = "en-us"
+title = "Com Sheet Music 2021"
+theme = "hugo-theme-minos"
